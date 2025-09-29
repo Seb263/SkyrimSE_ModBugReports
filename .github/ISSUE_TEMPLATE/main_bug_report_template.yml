@@ -21,6 +21,7 @@ body:
         - Core Impact Framework (CIF)
         - Sanguine Symphony
         - Death Drop Overhaul
+        - Ricochet - Arrow Physics Framework
         - Death Idle Fix
         - Inertia (Floating Gear Fix)
       default: 0
