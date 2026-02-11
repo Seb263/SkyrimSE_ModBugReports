@@ -25,6 +25,7 @@ body:
         - Smart Talk (Dialogue Menu Enhancer)
         - Death Idle Fix
         - Inertia (Floating Gear Fix)
+        - Dynamic Bloodpool Framework
       default: 0
     validations:
       required: true
