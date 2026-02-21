@@ -26,6 +26,7 @@ body:
         - Death Idle Fix
         - Inertia (Floating Gear Fix)
         - Dynamic Bloodpool Framework
+        - ShowRaceMenu - NG
       default: 0
     validations:
       required: true
