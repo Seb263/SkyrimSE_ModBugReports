@@ -27,6 +27,7 @@ body:
         - Inertia (Floating Gear Fix)
         - Dynamic Bloodpool Framework
         - ShowRaceMenu - NG
+        - No Auto-Equip Behaviour
       default: 0
     validations:
       required: true
