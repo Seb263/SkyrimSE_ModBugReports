@@ -28,6 +28,7 @@ body:
         - Dynamic Bloodpool Framework
         - ShowRaceMenu - NG
         - No Auto-Equip Behaviour
+        - Unpoisoned Blocking
       default: 0
     validations:
       required: true
