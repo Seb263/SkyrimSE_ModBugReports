@@ -29,6 +29,7 @@ body:
         - ShowRaceMenu - NG
         - No Auto-Equip Behaviour
         - Unpoisoned Blocking
+        - MCM Unlocked
       default: 0
     validations:
       required: true
