@@ -30,6 +30,7 @@ body:
         - No Auto-Equip Behaviour
         - Unpoisoned Blocking
         - MCM Unlocked
+        - Dynamic Armor Physics
       default: 0
     validations:
       required: true
