@@ -31,6 +31,7 @@ body:
         - Unpoisoned Blocking
         - MCM Unlocked
         - Dynamic Armor Physics
+        - Accuracy (Localized Combat Damage)
       default: 0
     validations:
       required: true
