@@ -32,6 +32,7 @@ body:
         - MCM Unlocked
         - Dynamic Armor Physics
         - Accuracy (Localized Combat Damage)
+        - Accurate Projectile Collision
       default: 0
     validations:
       required: true
