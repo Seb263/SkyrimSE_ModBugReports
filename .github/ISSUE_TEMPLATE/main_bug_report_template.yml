@@ -33,6 +33,7 @@ body:
         - Dynamic Armor Physics
         - Accuracy (Localized Combat Damage)
         - Accurate Projectile Collision
+        - Standing Stealth
       default: 0
     validations:
       required: true
