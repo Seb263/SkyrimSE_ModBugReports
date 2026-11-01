@@ -54,6 +54,7 @@ body:
       description: Which version of Skyrim are you using? (e.g., 1.6.353 for SE, 1.6.640 for AE, VR, etc.)
       options:
         - (Select a version)
+        - Anniversary Edition (AE) - 1.7.104 (Steam)
         - Anniversary Edition (AE) - 1.6.1170 (Steam)
         - Anniversary Edition (AE) - 1.6.640 (Steam)
         - Anniversary Edition (AE) - 1.6.1179 (GOG)
